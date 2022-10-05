@@ -7,6 +7,6 @@ Therefore, the expression [<i>deus ex machina</i>](https://en.wikipedia.org/wiki
 
 <br/>
 
-<center><img src='images/logo.png' alt='Movie title.' style='width:700px;height:400px;'></center>
+<center><img src='images/2.ava.png' alt='Movie title.' style='width:700px;height:400px;'></center>
 
 <br/>
