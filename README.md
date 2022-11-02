@@ -5,7 +5,7 @@ This repo contain a notebook that explore the `TypeError: 'float' object cannot 
 
 Therefore, the expression [<i>deus ex machina</i>](https://en.wikipedia.org/wiki/Deus_ex_machina) will not be discussed.
 
-For run the Jupyter Notebook online, on Binder, click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/msc2020/ex-machina-type-error/HEAD?labpath=Ex%20Machina.ipynb)
+For run the codes online click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/msc2020/ex-machina-type-error/HEAD?labpath=Ex%20Machina.ipynb)
 
 
 <br/>
